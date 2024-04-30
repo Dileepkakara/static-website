@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.bg-container{
+    background-image: url("https://img.freepik.com/premium-photo/beach-day-with-palm-trees_914854-1367.jpg?size=338&ext=jpg&ga=GA1.1.1880011253.1699833600&semt=ais");
+    height: 80vh;
+    background-size: cover;
+}
+.heading{
+    font-family: "Roboto";
+    font-weight: bold;
+
+}
+.paragraph{
+    font-family: "Roboto";
+    
+}
+.card1{
+    text-align: center;
+    background-color: white;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    padding: 3px;
+}
+.button{
+    height: 38px;
+    width: 138px;
+    background-color: blue;
+    color: white;
+    border-radius: 12px;
+    border-width: 0px;
+    
+}
+.place-container{
+    background-image: url("https://4kwallpapers.com/images/wallpapers/beach-aerial-view-480x800-60.jpg");
+    height: 170vh;
+    background-size: cover;
+}
+.famous-beach-heading{
+    color: rgb(251, 247, 247);
+    font-size: 29px;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding: 23px;
+}
+.place-container-card{
+    background-color: white;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 10px;
+    
+}
+.famous-beach-image{
+    width: 80px;
+    height: 100px;
+}
+.famous-heading{
+    color: rgb(4, 12, 106);
+    font-size: 25px;
+    font-weight: bold;
+}
+.famous-paragraph{
+    font-size: 15px;
+    color: black;
+}
+.place-detailed-container{
+    background-image: url("https://4kwallpapers.com/images/wallpapers/beach-aerial-view-480x800-60.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+.famous-beach-detailed-heading{
+    color: rgb(251, 247, 247);
+    font-size: 29px;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding: 23px;
+}
+.famous-beach-image{
+    width: 80px;
+    height: 200px;
+}
+.famous-heading{
+    color: rgb(4, 12, 106);
+    font-size: 25px;
+    font-weight: bold;
+}
+.famous-paragraph{
+    font-size: 15px;
+    color: black;
+}
+.detailed-view-container{
+    background-color: white;
+    border-bottom-right-radius: 9px;
+    border-bottom-left-radius: 9px;
+    margin: 24px;
+    
+}
+.detailed-view-container-text{
+    padding: 18px;
+}
+.detailed-view-heading{
+    font-family: "roboto";
+    font-weight: bold;
+    font-size: 25px;
+}
+.detailed-view-paragraph{
+    font-size: 14px;
+    font-family: "Roboto";
+}
+.btn{
+    margin: 20px;
+}
